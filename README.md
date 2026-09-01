@@ -4,7 +4,8 @@ Senior technical program leader. Platform and API modernization, AI/ML program d
 
 I lead Gap Inc.'s platform modernization program, managing a $12M engineering labor budget across 25+ engineering and UX teams and four brands. That work sits behind the numbers: sub-2 second homepage load times, all eight page types green on Core Web Vitals, and a redirect fix that cut 1.26 seconds off load time and drove $63M+ in revenue. I also sit in Gap's Office of AI, bringing that rigor to AI-adoption programs across the company.
 
-Track record, as published on my LinkedIn profile:
+Track record, as published on my
+[LinkedIn profile](https://www.linkedin.com/in/arthurlpaula/):
 
 → A net-new DoorDash vertical scaled from $0 to $240M and 10M+ users in under 18 months, leading a team of 50 across North America
 
@@ -13,7 +14,6 @@ Track record, as published on my LinkedIn profile:
 → A $14M to $26M revenue climb and a $40M Series B at Local Kitchens, built on the AI operating foundation I designed
 
 PMP, CSM.
-https://www.linkedin.com/in/arthurlpaula/
 
 ## Selected work
 

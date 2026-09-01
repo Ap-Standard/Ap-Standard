@@ -1,13 +1,18 @@
 # Arthur Paula
 
 Senior technical program leader. Platform and API modernization, AI/ML program delivery.
-I build the operating system a program runs on: the intake, the gates, the release cadence,
-and the evidence that turns strategy into shipped, verified change.
 
-**Track record, as published on my LinkedIn profile:** $3B+ portfolio impact across five
-companies, including DoorDash ($0 to $240M in under 18 months) and Chipotle ($45M
-infrastructure program behind $1B in digital revenue). 8,000+ hours hands-on with AI
-systems. PMP, CSM.
+I build the machinery that turns strategy into shipped, verified change: intake, gates,
+release cadence, and the evidence.
+
+I architect and operate production AI systems, and bring that build depth to the program
+office. A TPM who works in the pull request, not just the roadmap.
+
+**Track record, as published on my LinkedIn profile:** a net-new DoorDash vertical from
+$0 to $240M and 10M+ users in under 18 months. A $45M infrastructure modernization across
+3,000+ sites at Chipotle, and an AI recommendation engine credited with $1B+ in
+incremental digital revenue. A $14M to $26M climb and a $40M Series B at Local Kitchens.
+The fastest e-commerce site in Gap Inc. history. PMP, CSM.
 
 ## Selected work
 
@@ -44,11 +49,11 @@ runs on that model in public: [charter](docs/charter.md) ·
 ## Production proof
 
 The mechanisms in this portfolio run in production. I architect and operate a multi-tenant
-AI platform that has processed 2.5B tokens at a 97.8% cache hit rate, measured by token
-accounting instrumented at every model call site and reconciled against provider billing.
-Gated trunk, two-seat AI review, post-merge verification, recurring reliability sweeps.
-The code stays private; the mechanisms are being published at
-[field-notes](https://github.com/Ap-Standard/field-notes).
+AI platform, run on a gated trunk with two-seat AI review, post-merge verification, and
+recurring reliability sweeps. It averages 8B tokens a month, with peaks near 10B, at a
+97.8% cache hit rate, measured by token accounting instrumented at every model call site
+and reconciled against provider billing. The code stays private; the mechanisms are being
+published at [field-notes](https://github.com/Ap-Standard/field-notes).
 
 ## Currently exploring
 

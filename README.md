@@ -2,17 +2,18 @@
 
 Senior technical program leader. Platform and API modernization, AI/ML program delivery.
 
-I build the machinery that turns strategy into shipped, verified change: intake, gates,
-release cadence, and the evidence.
+I lead Gap Inc.'s platform modernization program, managing a $12M engineering labor budget across 25+ engineering and UX teams and four brands. That work sits behind the numbers: sub-2 second homepage load times, all eight page types green on Core Web Vitals, and a redirect fix that cut 1.26 seconds off load time and drove $63M+ in revenue. I also sit in Gap's Office of AI, bringing that rigor to AI-adoption programs across the company.
 
-I architect and operate production AI systems, and bring that build depth to the program
-office. A TPM who works in the pull request, not just the roadmap.
+Track record, as published on my LinkedIn profile:
 
-**Track record, as published on my LinkedIn profile:** a net-new DoorDash vertical from
-$0 to $240M and 10M+ users in under 18 months. A $45M infrastructure modernization across
-3,000+ sites at Chipotle, and an AI recommendation engine credited with $1B+ in
-incremental digital revenue. A $14M to $26M climb and a $40M Series B at Local Kitchens.
-The fastest e-commerce site in Gap Inc. history. PMP, CSM.
+→ A net-new DoorDash vertical scaled from $0 to $240M and 10M+ users in under 18 months, leading a team of 50 across North America
+
+→ AI agent infrastructure at Avolta that cut North American labor costs $68K weekly and lifted delivery velocity 9%, across 100+ airports and 11 business units
+
+→ A $14M to $26M revenue climb and a $40M Series B at Local Kitchens, built on the AI operating foundation I designed
+
+PMP, CSM.
+https://www.linkedin.com/in/arthurlpaula/
 
 ## Selected work
 

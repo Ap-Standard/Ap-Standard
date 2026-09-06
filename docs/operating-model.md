@@ -1,8 +1,8 @@
 # Operating model
 
 How work moves through this portfolio, and the cadence that keeps it alive. The rules here
-are commitments, not aspirations; flightdeck will report against them once its reporting
-lands.
+are commitments, not aspirations; flightdeck reports against them every night at
+[ap-standard.github.io/flightdeck](https://ap-standard.github.io/flightdeck/).
 
 ## How work moves
 
@@ -53,4 +53,6 @@ Write the first quarterly note after a full real quarter, not retroactively.
 
 ## Automation boundary
 
-Automation may open issues and pull requests. Only gated pull requests change `main`.
+Automation may open issues and pull requests, and it publishes measured data through
+Actions-mode GitHub Pages with `contents: read` and no branch commit. Only gated pull
+requests change `main`.

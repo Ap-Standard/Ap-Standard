@@ -13,12 +13,13 @@ what was decided and why, what shipped last, and where its limits are.
 
 ## Scope
 
-Five repos, one program: this repo (the program office), plus
+Four repos, one program: this repo (the program office), plus
 [twoseat](https://github.com/Ap-Standard/twoseat),
-[flightdeck](https://github.com/Ap-Standard/flightdeck),
-[leaseq](https://github.com/Ap-Standard/leaseq), and
+[flightdeck](https://github.com/Ap-Standard/flightdeck), and
 [field-notes](https://github.com/Ap-Standard/field-notes).
-One operating model, one decision log, one risk register, all in this repo.
+One operating model, one decision log, one risk register, all in this repo. leaseq, a
+fifth repo in the original scope, was cut before any code was written
+([decision 0005](decisions/0005-portfolio-reset.md)).
 
 ## Out of scope
 
@@ -31,8 +32,10 @@ public artifact in this portfolio.
 
 - Every pinned repo passes the 10-minute reviewer test
   (checklist in [operating-model.md](operating-model.md)).
-- Once live, flightdeck publishes portfolio metrics weekly from a scheduled CI run; a
-  missed or manually triggered run opens a `prio:p1` issue.
+- flightdeck publishes portfolio metrics nightly from a scheduled Actions run to GitHub
+  Pages. The card prints its generation date and the reliability tile counts completed
+  nights over the last 30, scheduled and manual apart, so a missed run is visible on the
+  profile without a keepalive commit or an auto-filed issue.
 - One release per code repo per quarter, minimum.
 - Zero disclosure-policy violations, checked at every PR review.
 

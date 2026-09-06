@@ -1,6 +1,6 @@
 # 0001: Portfolio scope, account, and pins
 
-Status: accepted. Date: 2026-08-31.
+Status: accepted. Date: 2026-08-31. Amended by [0005](0005-portfolio-reset.md): pins reduced to three and leaseq removed from scope.
 
 ## Context
 

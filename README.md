@@ -64,7 +64,7 @@ PMP, CSM.
 
 ## How I run a program
 
-Most programs do not fail on strategy. They fail because nobody builds the machine that turns strategy into merged, verified, reversible change. Every piece of work here starts as an issue with acceptance criteria, ships through a pull request reviewed by CI, secret scanning, and the twoseat AI seat, lands in a release whose notes record post-publish verification, and gets measured nightly by flightdeck. The profile card at the top of this page is the last node of that loop.
+Most programs do not fail on strategy. They fail because nobody builds the machine that turns strategy into merged, verified, reversible change. Code here starts as an issue with acceptance criteria, ships through a pull request reviewed by CI, secret scanning, and the twoseat AI seat, and gets measured nightly by flightdeck. A release carries a Verified section that records post-publish verification, as twoseat v0.1.0 does. The profile card at the top of this page is the last node of that loop. The two prose repositories, this profile and field-notes, run CI and secret scanning on every pull request and ship no releases.
 
 ```mermaid
 flowchart LR

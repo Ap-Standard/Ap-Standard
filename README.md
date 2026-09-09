@@ -16,7 +16,7 @@ Three repos, one operating model. Each entry states the decision I made, the evi
 
 **Decision:** Benchmark the reviewer before trusting it, and never let the gate block on its own failure. Deciding and enforcing live in different files, so the gate can be wrong about a diff without being able to stop anyone.
 
-**Evidence:** Precision 97.4%, recall 100.0%, median $0.0092 per review, on 47 scored synthetic cases (48 in the corpus, one run per case), method in [bench/README.md](https://github.com/Ap-Standard/twoseat/blob/main/bench/README.md), as of the [v0.1.0 release](https://github.com/Ap-Standard/twoseat/releases/tag/v0.1.0) on 2026-09-04.
+**Evidence:** Recall 97.4%, precision 100.0%, median $0.0092 per review, on 47 scored synthetic cases (48 in the corpus, one run per case), method in [bench/README.md](https://github.com/Ap-Standard/twoseat/blob/main/bench/README.md), as of the [v0.1.1 release](https://github.com/Ap-Standard/twoseat/releases/tag/v0.1.1) on 2026-09-08, which re-scored the 2026-09-03 run under a corrected rule ([decision 0008](docs/decisions/0008-injection-line-scoring-rule.md)).
 
 **Gate:** The scorecard shipped with its four corpus corrections disclosed in the same document, or it did not ship.
 

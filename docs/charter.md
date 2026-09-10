@@ -33,9 +33,13 @@ public artifact in this portfolio.
 - Every pinned repo passes the 10-minute reviewer test
   (checklist in [operating-model.md](operating-model.md)).
 - flightdeck publishes portfolio metrics nightly from a scheduled Actions run to GitHub
-  Pages. The card prints its generation date and the reliability tile counts completed
+  Pages, and its reliability tile reads **28 of 30 nights or better, 93%**, once 30 nights
+  of history exist. The card prints its generation date and the tile counts completed
   nights over the last 30, scheduled and manual apart, so a missed run is visible on the
-  profile without a keepalive commit or an auto-filed issue.
+  profile without a keepalive commit or an auto-filed issue. Two missed nights a month is
+  the allowance: enough to absorb a GitHub Actions incident, tight enough that a broken
+  schedule fails this measure within days. The tile reports the count whatever it says,
+  so a failed month is visible on the profile rather than restated here.
 - One release per code repo per quarter, minimum.
 - Zero disclosure-policy violations, checked at every PR review.
 

@@ -80,7 +80,7 @@ flowchart LR
 
 The mechanisms in this portfolio run in production. I architect and operate a multi-tenant
 AI platform, run on a gated trunk with two-seat AI review, post-merge verification, and
-recurring reliability sweeps. It averages close to 5B tokens a month at a 97.8% cache hit
+recurring reliability sweeps. It averages close to 10B tokens a month at a 97.8% cache hit
 rate, measured by token accounting instrumented at every model call site and reconciled
 against provider billing, as of March 2026. The code stays private; the mechanisms are being
 published at [field-notes](https://github.com/Ap-Standard/field-notes).
